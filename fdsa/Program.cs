@@ -5,7 +5,18 @@ class Program
 {
     static void Main(string[] args)
     {
-        Calculator();
+        while (true)
+        {
+            Calculator();
+            Console.WriteLine("Do you wanna continue?(yes/no)");
+            var option = Console.ReadLine();
+            if (option.ToLower().Trim() == "no")
+            {
+                break;
+            }
+            Console.Clear();
+        }
+       
     }
 
     public static void Calculator()
