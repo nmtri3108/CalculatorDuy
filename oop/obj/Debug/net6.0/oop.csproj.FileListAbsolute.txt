@@ -1,0 +1,15 @@
+/Users/tringuyen/RiderProjects/fdsa/oop/bin/Debug/net6.0/oop
+/Users/tringuyen/RiderProjects/fdsa/oop/bin/Debug/net6.0/oop.deps.json
+/Users/tringuyen/RiderProjects/fdsa/oop/bin/Debug/net6.0/oop.runtimeconfig.json
+/Users/tringuyen/RiderProjects/fdsa/oop/bin/Debug/net6.0/oop.dll
+/Users/tringuyen/RiderProjects/fdsa/oop/bin/Debug/net6.0/oop.pdb
+/Users/tringuyen/RiderProjects/fdsa/oop/obj/Debug/net6.0/oop.csproj.AssemblyReference.cache
+/Users/tringuyen/RiderProjects/fdsa/oop/obj/Debug/net6.0/oop.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tringuyen/RiderProjects/fdsa/oop/obj/Debug/net6.0/oop.AssemblyInfoInputs.cache
+/Users/tringuyen/RiderProjects/fdsa/oop/obj/Debug/net6.0/oop.AssemblyInfo.cs
+/Users/tringuyen/RiderProjects/fdsa/oop/obj/Debug/net6.0/oop.csproj.CoreCompileInputs.cache
+/Users/tringuyen/RiderProjects/fdsa/oop/obj/Debug/net6.0/oop.dll
+/Users/tringuyen/RiderProjects/fdsa/oop/obj/Debug/net6.0/refint/oop.dll
+/Users/tringuyen/RiderProjects/fdsa/oop/obj/Debug/net6.0/oop.pdb
+/Users/tringuyen/RiderProjects/fdsa/oop/obj/Debug/net6.0/oop.genruntimeconfig.cache
+/Users/tringuyen/RiderProjects/fdsa/oop/obj/Debug/net6.0/ref/oop.dll

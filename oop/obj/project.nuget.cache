@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "7ZU+Fhg9yvD3dHedJn+42gIPbrz6VvAANmIQlSVlNegoLwXOEYf3pHYOKAgccGGppy3svCuCy6olpe6qrHDT+w==",
+  "success": true,
+  "projectFilePath": "/Users/tringuyen/RiderProjects/fdsa/oop/oop.csproj",
+  "expectedPackageFiles": [
+    "/Users/tringuyen/.nuget/packages/microsoft.netcore.app.ref/6.0.18/microsoft.netcore.app.ref.6.0.18.nupkg.sha512",
+    "/Users/tringuyen/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.18/microsoft.aspnetcore.app.ref.6.0.18.nupkg.sha512",
+    "/Users/tringuyen/.nuget/packages/microsoft.netcore.app.host.osx-x64/6.0.18/microsoft.netcore.app.host.osx-x64.6.0.18.nupkg.sha512"
+  ],
+  "logs": []
+}
